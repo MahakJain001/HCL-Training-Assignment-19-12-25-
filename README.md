@@ -1,5 +1,5 @@
-(A) Assignments 
 Assignment 1: Submission date: 19/12/2025 
+
 Program1: A class sixth student required to solve basic mathematics problems. For this he/ she needs to 
 perform operations such as addition, subtraction, multiplication, division, remainder, square, 
 cube, and absolute. Write a program using methods to perform these basic operations. 
